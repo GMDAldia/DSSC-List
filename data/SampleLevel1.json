@@ -2,17 +2,17 @@
     "id": 76962930,
     "name": "Sakupen Circles",
     "author": "TheDiamondPizza",
-    "creators": [By Nick24, DrCuber, korewa, Muffy450, Renn241, endevvor, Mzero, NineDice, GhostVandalf],
+    "creators": [Collab],
     "verifier": "TheDiamondPizza",
     "verification": "https://youtu.be/RNvLPdqJPSk?si=zQf-UNGuUCI2OLz6",
     "percentToQualify": 56,
     "password": "Not Copyable",
-    "records": [
+    "records": [1
         {
             "user": "Wity",
             "link": "https://youtu.be/RNvLPdqJPSk?si=zQf-UNGuUCI2OLz6",
             "percent": 100,
-            "hz": CBF
+            "hz": 240
         }
     ]
 }
