@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 76962930,
+    "name": "Sakupen Circles",
+    "author": "TheDiamondPizza",
+    "creators": [By Nick24, DrCuber, korewa, Muffy450, Renn241, endevvor, Mzero, NineDice, GhostVandalf],
+    "verifier": "TheDiamondPizza",
+    "verification": "https://youtu.be/RNvLPdqJPSk?si=zQf-UNGuUCI2OLz6",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Wity",
+            "link": "https://youtu.be/RNvLPdqJPSk?si=zQf-UNGuUCI2OLz6",
             "percent": 100,
-            "hz": 360
+            "hz": CBF
         }
     ]
 }
